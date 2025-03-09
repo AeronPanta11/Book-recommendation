@@ -66,10 +66,4 @@ print(books)</code></pre>
 
 </body>
 </html>
-"""
 
-# Write the content to a README.html file
-with open("README.html", "w") as readme_file:
-    readme_file.write(readme_html_content)
-
-print("README.html file has been created.")
